@@ -31,7 +31,7 @@ __预计实习时间：__
 - 2023.7.1-2023.9.15 全天
 - 2023.9.15-2024.1.1 课余
 
-![selfie.jpg](http://acanxie.com/photo/api/downloadPhoto?name=selfie.jpg)
+![selfie.jpg](http://acanxie.com/photo/api/previewPhoto?name=selfie.jpg)
 
 ### 技术栈
 
