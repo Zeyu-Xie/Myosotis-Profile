@@ -1,123 +1,101 @@
-# 个人简历
+ACAN XIE
 
-清华数学谢同学，梦想转码中
+Bldg. 10, Tsinghua Univ., No. 30 Shuangqing Rd., Haidian District, Beijing, Beijing, China, 100084
 
-From Math to CS
+E-mail: [xie.zeyu20@gmail.com](mailto:xie.zeyu20@gmail.com) | Tel.: +86 17795760225
 
-__电话：__ +86 17795760225
+<hr>
 
-__邮箱：__ xie.zeyu20@gmail.com xie-zy20@mails.tsinghua.edu.cn
+**EDUCATION BACKGROUND**
 
-__网站：__ www.acanxie.com
+*Bachelor’s Degree of Natural Science* | **Tsinghua University,** Beijing, China        09/2020-06/2024
 
-### 基本信息
+- Program: Mathematics and Applied Mathematics (*in progress, expected graduation on Jun. 2024*)
+- GPA: 3.1/4.0
+- Core Courses: *Advanced Linear Algebra, Fundamentals of Programming, Mathematical Analysis, User-Centered Interaction Design, Abstract Algebra, Ordinary Differential Equations, Measures and Integrals, Geometry and Symmetry*
 
-__姓名：__ 谢泽钰
+*Exchange Program |* **KTH Royal Institute of Technology**, Stockholm, Sweden      08/2022-01/2023
 
-__出生年月：__ Mar 2002
+- Program: Electrical Engineering and Computer Science
+- Core Courses: *Measures and Integrals, Geometry and Symmetry*
 
-__学校：__ 清华大学
+**SKILLS**
 
-__专业：__ 数学与应用数学
+- Programming Language: C/C++, JavaScript, Python, NodeJS, Rust, Shell
+- Database: MongoDB, MySql
+- Tools: JetBrains, XCode, Vim, MatLAB, Docker
+- Platforms: GitHub, Stackoverflow, CSDN
+- Comprehensive Skills: leadership, organization, cooperation, logical thinking, problem-solving, independent learning and research
 
-__实习岗位意向：__
+**RESEARCH EXPERIENCE**
 
-- 前端开发（初级、中级）
-- 后端开发（初级）
-- 软件测试
+*Front-end Developer and Assistant Back-end Developer |* **A Human-Computer Collaborative Tool for Training a Single Large Language Model Agent into a Network through Few Examples, Human-Computer Interaction Laboratory, Department of Computer Science and Technology, Tsinghua University**
 
-__预计实习时间：__
+*Period: 02/2023-Present*
 
-- 2023.7.1-2023.9.15 全天
-- 2023.9.15-2024.1.1 课余
+*Supervisor: Dr. Chun Yu*                               
 
-### 技术栈
+- Implementing the development of the user interface 
+- Assisting the back-end part to solve issues such as server configuration and software testing
+- Helping with preparing annotated datasets for model training
+- Updating the lab’s official academic website
 
-#### 前端
+*Object-Oriented Programmer |* **A Framework for Optimizing the Plotting Functionality in MATLAB, Department of Computer Science and Technology, Tsinghua University** 
 
-| 技术名称   | 技术水平 |
-| ---------- | -------- |
-| HTML / CSS   | ★★★★☆    |
-| JavaScript | ★★★☆☆    |
-| React      | ★★★★☆    |
+*Period: 09/2020-02/2023*
 
-#### 后端
+- Developed an optimized MATLAB plotting framework using object-oriented programming (OOP) principles
+- Applied modular design for enhanced efficiency and flexibility in plotting functions
+- Strengthened proficiency in MATLAB and OOP principles
+- Contributed to a more efficient and user-friendly plotting experience
+- Completed through collaborative efforts within the team
 
-| 技术名称 | 技术水平 |
-| -------- | -------- |
-| C / C++    | ★★★★☆    |
-| Python   | ★★☆☆☆    |
-| NodeJS   | ★★★★☆    |
+*Machine Learning Engineer |* **Optimality Theories in Machine Learning, Tsinghua U**
 
-#### 数据库
+*Period: 09/2020-02/2023*
 
-| 技术名称 | 技术水平 |
-| -------- | -------- |
-| MongoDB  | ★★★★☆    |
-| MySQL    | ★☆☆☆☆    |
+- Implemented GDM (Gradient Descent Method) and SDM (Stochastic Descent Method) algorithms, incorporating penalty function and ALM (Augmented Lagrangian Method)
+- Utilized Pyplot tool to visualize the machine learning process, creating gradient descent diagrams for multiple functions using Python programs
 
-#### 云服务
+*Data Engineer and Full-Stack Programmer |* **Python Web Scraping: Beautiful Soup for Data Gathering, Tsinghua University**                         
 
-| 技术名称   | 技术水平 |
-| ---------- | -------- |
-| 腾讯云     | ★★★☆☆    |
-| 百度智能云 | ★★★☆☆    |
-| AWS        | ★★☆☆☆    |
+*Period: 09/2020-02/2023*
 
-#### 开发相关
+- Developed web scrapers using Python's Beautiful Soup library to back up real-time news data
+- Rented a Tencent Cloud server for a year and deployed MongoDB database to store the new data
+- Developed an iOS app displaying news hot searches and tested it on multiple developer accounts
+- Registered a domain name and resolved it to the server, displaying the news list gathered
+- Used automatic GitHub Action to store data and log into repositories, preparing for analysis with AI 
 
-| 技术名称                                 | 技术水平 |
-| ---------------------------------------- | -------- |
-| Git / Gitee / GitHub                         | ★★★★★    |
-| Markdown                                 | ★★★☆☆    |
-| ChatGPT                                  | ★★★★☆    |
-| VSCode（Live Server / Remote SSH / Copilot） | ★★★★☆    |
+*Front-End Developer* | **Pure Front-End Art Toolkits Combo, Tsinghua University**
 
-#### 其它技能
+*Period: 09/2020-02/2023*
 
-| 技术名称   | 技术水平 |
-| ---------- | -------- |
-| 公众号运营 | ★★★★★    |
-| 视频剪辑   | ★★★☆☆    |
+- Created several pure frontend tool webpages deployed on GitHub Pages, featuring intricate code but no need for backend responses, ensuring stability
+- Text-to-image tool using the HTML canvas tag, converting articles into long images with adjustable width, height, and margins
+- Applied image splicing tool sortable.js library in JS, allowing sequential uploads and drag-and-drop sorting
+- Used symmetric/asymmetric encryption tool to support AES-256, RSA, etc., directly operating in the frontend employing the webpage blob element, excluding extremely large files
+- Introduced color palette tool, an auxiliary color adjustment tool inspired by the *Chinese Colors* website
 
-### 项目经历
+*Ruby Programmer and Writer* | **Personal Blog, Tsinghua University**
 
-#### ACANXIE.COM
+*Period: 09/2020-02/2023*
 
-个人网站（2023.6-2023.7）
+- Deployed a blog using a self-built template, Jekyll, and GitHub Pages
+- Enabled Disqus comments and Google Analytics monitoring support
 
-使用 React 框架和 NodeJS 语言，借助 ChatGPT 等工具实现了高效的全栈开发。 
+**STUDENT INVOLVEMENT**
 
-#### 人机协同创作
+*Director of Publicity and Design Department & Vice President |* **Student Communication Association of Sanqin Culture of Tsinghua University**                      
 
-SRT 项目（2023.2-2023.7）
+*Period: 09/2021-06/2023*
 
-春季加入清华大学人机交互实验室立项的 SRT 项目，负责全部前端及部分后端开发。 
+- Supervised the daily operation of the association’s public account, collation and dissemination of Sanqin culture
+- Collaborated with other sections to help promote and find sponsorship for events
+- Responsible for the staff arrangement of the department
+- Launched a series of Shaanxi culture-related cultural and creative products
+- Achievement: obtained more than 2,000 followers for THU Qin Association public number; set high-quality templates for the publicity design works; standardized the routine work with high efficiency
 
-#### 公众号运营
+*Propaganda Department Member |* **Chinese Students and Scholars Association at KTH Royal Institute of Technology**, **(CSSASE),** Stockholm, Sweden
 
-微信公众号“THU 秦协”（2022.7-2023.6）
-
-全称“清华大学三秦文化交流协会”，过去一年间负责公众号的排版及运营工作，目前关注逾 2000 人。
-
-### 教育经历
-
-#### 大学教育
-
-清华大学（2020.9-2024.6）
-
-就读于清华大学致理书院数学与应用数学专业，熟练掌握分析学、代数学基础知识，程序设计基础扎实。
-
-#### 国际交换
-
-瑞典皇家理工学院（2022.8-2023.2）
-
-2022 年入选校级合作项目，于大三秋季学期赴瑞典学习， 从属于对方学校工学大类。
-
-#### 个人荣誉
-
-各阶段获得奖项（2014.9-2023.7）
-
-- __初中：__ 全国青少年信息学奥林匹克联赛（NOIP）二等奖 
-- __高中：__ 中国数学奥林匹克（CMO）银牌 
-- __大学：__ 入选清华大学数学学堂班，享受学堂班奖学金
+*Period: 09/2022-01/2023*
